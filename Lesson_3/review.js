@@ -26,6 +26,3 @@
 // Nullish
 /// ?? ...-> bu belgi null va undefined kelishini kutadi va qolgan hamma holatda true degani
 // nullishda null bn undefined kelsa ignor qiladi va kngisiga o'tqizvoradi 
-// 
-// 
-// 

@@ -52,6 +52,4 @@
 //     ? console.log("True") : Begin == "Other" ? console.log("You don't know 'EcmaScript'"):console.log("xato");
 
 // 
-
-//asdasdasda sssdsdd asd asahdvavxhvlisfln
-// sdfasdfasdfsaa ad asd asdasd asdasd asdqsda sda
+// If Else

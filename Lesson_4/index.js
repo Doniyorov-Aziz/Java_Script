@@ -10,13 +10,16 @@
 //     break;
 // }
 
-// let num = "698"
-// let y = parseInt(num / 100)
-// num = num % 100;
-// let o = parseInt(num / 10)
-// num = num % 10;
+// let num = "727"
+// let y = parseInt(num/100)
+// num = num % 100
+// let o = parseInt(num/10)
+// num = num % 10
 // c = num
-// a = "" ; b = "" ; d = "";
+
+
+// a = ""; b = ""; d = "";
+
 // switch (y) {
 //     case 1:
 //         a = "bir yuz";
@@ -108,7 +111,7 @@
 // }
 // console.log(a,b,d);
 
-// 
+
 
 // let str = "Webbrain academy"
 // console.log(str[5]);
@@ -148,3 +151,41 @@
 //     console.log(i);
 //     i++;
 // }
+// let i = 1
+// for (i; i <= 10; i++){
+//     console.log(i);
+// }
+
+
+
+
+// let i = 1
+// for (let j = 1; j < 10; ++j) {
+
+//     console.log(`\n${i++} - karra boshlandi :\n`);
+//     for (let i = 2; 10>i ; ++i) {
+//         console.log(`${j} * ${i} = ${i * j}`);
+
+//     }
+// }
+// console.log("Dunyo seni tog'angmas ukatoy");
+
+
+
+// let num = "01012023"
+// let y = parseInt(num.slice(-4)(num / 1000))
+// num = num % 1000
+// let o = parseInt(num.slice(2, 4)(num / 10))
+// num = num % 10
+// c = parseInt(num.slice(0, 2)(num / 10))
+// num = num % 10
+
+// a = ""; b = ""; d = "";
+
+// switch(y){
+//     case 2023 :
+//         a="ikkiming yigirma uchunchi yil";
+//         break;
+// }
+// console.log(a);
+

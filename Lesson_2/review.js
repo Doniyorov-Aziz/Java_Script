@@ -52,3 +52,5 @@
 /// \t ..-> tab tashlash
 /// \n ..-> qator tashlash
 /// \g ..-> global
+
+/// Or || -> Null undifend 0 folse Nan 

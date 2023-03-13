@@ -13,7 +13,7 @@
 // let kun = "1"
 // let oy = 2
 // let yil = "2023"
-// // let num = "727"
+
 // let q = parseInt(yil / 1000)
 // yil = yil % 1000
 // let y = parseInt(yil / 100)
@@ -21,7 +21,37 @@
 // let o = parseInt(yil / 10)
 // yil = yil % 10
 // c = yil
-// // t = 1
+
+// switch (c) {
+//     case 1:
+//         d = "bir";
+//         break;
+//     case 2:
+//         d = "ikki";
+//         break;
+//     case 3:
+//         d = "uch";
+//         break;
+//     case 4:
+//         d = "to'rt";
+//         break;
+//     case 5:
+//         d = "besh";
+//         break;
+//     case 6:
+//         d = "olti";
+//         break;
+//     case 7:
+//         d = "yetti";
+//         break;
+//     case 8:
+//         d = "sakkiz";
+//         break;
+//     case 9:
+//         d = "to'qqiz";
+//         break;
+
+// }
 
 // switch (oy) {
 //     case 1:
@@ -181,37 +211,7 @@
 //         break;
 
 // }
-// switch (c) {
-//     case 1:
-//         d = "bir";
-//         break;
-//     case 2:
-//         d = "ikki";
-//         break;
-//     case 3:
-//         d = "uch";
-//         break;
-//     case 4:
-//         d = "to'rt";
-//         break;
-//     case 5:
-//         d = "besh";
-//         break;
-//     case 6:
-//         d = "olti";
-//         break;
-//     case 7:
-//         d = "yetti";
-//         break;
-//     case 8:
-//         d = "sakkiz";
-//         break;
-//     case 9:
-//         d = "to'qqiz";
-//         break;
-
-// }
-// console.log(e, a, b, d, t);
+// console.log(d, e, a, b, t);
 
 
 
@@ -294,3 +294,145 @@
 // }
 // console.log(a);
 
+
+
+// 
+
+
+// let num = "4700"
+
+// let t = parseInt(num / 1000)
+// num = num % 1000
+// let u = parseInt(num / 100)
+// num = num % 100
+// let i = parseInt(num / 10)
+// num = num % 10
+// b = num
+
+
+// a = ""; g = ""; x = ""; y = "";
+
+// switch (t) {
+//     case 1:
+//         a = "bir ming";
+//         break;
+//     case 2:
+//         a = "ikki ming";
+//         break;
+//     case 3:
+//         a = "uch ming";
+//         break;
+//     case 4:
+//         a = "to'rt ming";
+//         break;
+//     case 5:
+//         a = "besh ming";
+//         break;
+//     case 6:
+//         a = "olti ming";
+//         break;
+//     case 7:
+//         a = "yetti ming";
+//         break;
+//     case 8:
+//         a = "sakkiz ming";
+//         break;
+//     case 9:
+//         a = "to'qqiz ming";
+//         break;
+// }
+
+
+// switch (u) {
+
+//     case 1:
+//         g = "bir yuz";
+//         break;
+//     case 2:
+//         g = "ikki yuz";
+//         break;
+//     case 3:
+//         g = "uch yuz";
+//         break;
+//     case 4:
+//         g = "to'rt yuz";
+//         break;
+//     case 5:
+//         g = "besh yuz";
+//         break;
+//     case 6:
+//         g = "olti yuz";
+//         break;
+//     case 7:
+//         g = "yetti yuz";
+//         break;
+//     case 8:
+//         g = "sakkiz yuz";
+//         break;
+//     case 9:
+//         g = "to'qqiz yuz";
+//         break;
+// }
+
+
+// switch (i) {
+//     case 1:
+//         x = "o'n";
+//         break;
+//     case 2:
+//         x = "yigirma";
+//         break;
+//     case 3:
+//         x = "o'ttiz";
+//         break;
+//     case 4:
+//         x = "qirq";
+//         break;
+//     case 5:
+//         x = "ellik";
+//         break;
+//     case 6:
+//         x = "oltmish";
+//         break;
+//     case 7:
+//         x = "yetmish";
+//         break;
+//     case 8:
+//         x = "sakson";
+//         break;
+//     case 9:
+//         x = "to'qson";
+//         break;
+// }
+
+// switch (b) {
+//     case 1:
+//         y = "bir";
+//         break;
+//     case 2:
+//         y = "ikki ";
+//         break;
+//     case 3:
+//         y = "uch ";
+//         break;
+//     case 4:
+//         y = "to'rt ";
+//         break;
+//     case 5:
+//         y = "besh ";
+//         break;
+//     case 6:
+//         y = "olti ";
+//         break;
+//     case 7:
+//         y = "yetti ";
+//         break;
+//     case 8:
+//         y = "sakkiz ";
+//         break;
+//     case 9:
+//         y = "to'qqiz ";
+//         break;
+
+// }
+// console.log(a, g, x, y);

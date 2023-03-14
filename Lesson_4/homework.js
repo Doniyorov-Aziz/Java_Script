@@ -146,8 +146,8 @@
 // 4
 
 
-// let oy = 24
-// c = ""
+// let oy = 1
+// c=""
 // switch (oy) {
 //     case 1:
 //         c = "31 kun";
@@ -190,3 +190,26 @@
 
 
 // 5
+
+// let a = 8, b = 6
+
+// res = 4
+// switch (res) {
+//     case 1:
+//         console.log(res = a + b);
+//         break;
+//     case 2:
+//         console.log(res = a - b);
+//         break;
+
+//     case 3:
+//         console.log(res = a * b);
+//         break;
+
+//     case 4:
+//         console.log(res = a / b);
+//         break;
+//     default: console.log("xato son kiritildi");
+// }
+
+
